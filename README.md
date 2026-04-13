@@ -44,7 +44,7 @@ movie-review-system/
 │   │   │       ├── entity/                            ← COMPLETED
 │   │   │       ├── repository/                        ← ALL COMPLETED
 │   │   │       ├── service/
-│   │   │       │   ├── MovieService.java             ← COMPLETED
+│   │   │       │   ├── MovieService.java             ← TODO
 │   │   │       │   ├── ReviewService.java            ← COMPLETED
 │   │   │       │   └── UserService.java              ← TODO (High Priority)
 │   │   │       └── dto/ (optional)
