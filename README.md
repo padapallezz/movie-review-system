@@ -55,9 +55,9 @@ movie-review-system/
 │   │   │   │   │   └── style.css
 │   │   │   │   └── js/
 │   │   │   │       └── star-rating.js
-│   │   │   └── templates/
+│   │   │   └── templates/                            ← TODO 
 │   │   │       ├── index.html
-│   │   │       ├── movie-detail.html                  ← TODO 
+│   │   │       ├── movie-detail.html                 
 │   │   │       ├── search.html
 │   │   │       ├── login.html
 │   │   │       ├── register.html
@@ -65,6 +65,6 @@ movie-review-system/
 │   │   │
 │   │   └── application.properties
 │   │
-├── database_schema.sql                                ← COMPLETED
+├── database_schema.sql                                ← TODO
 ├── pom.xml
 ├── README.md
